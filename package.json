@@ -1,0 +1,17 @@
+{
+  "name": "pool-management-script",
+  "version": "1.0.0",
+  "main": "tiered-stake-pool-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/spl-stake-pool": "^1.1.8",
+    "@solana/web3.js": "^1.98.0",
+    "node-cron": "^3.0.3"
+  }
+}
